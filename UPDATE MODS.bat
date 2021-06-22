@@ -1,1 +1,1 @@
-git pull --depth 1
+git pull --depth 1 --allow-unrelated-histories
